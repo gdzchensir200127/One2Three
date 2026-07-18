@@ -1,0 +1,3 @@
+ls ~/shapenetS2M/ | xargs -I % sh -c 'blender blank.blend -b -P render_fixed.py -- /home/zhang_muxin/shapenetS2M_init % ./obj_list/%.list 128 4'
+ls ~/shapenetS2M/ | xargs -I % sh -c 'blender blank.blend -b -P render.py -- /home/zhang_muxin/shapenetS2M_init % ./obj_list/%.list 128'
+ls ~/shapenetS2M/ | xargs -I % sh -c 'python convertEXR.py % ./obj_list/%.list 128 4'

@@ -1,0 +1,123 @@
+Progress:   0.00%(  0.0001 sec |   0.0001 sec) Importing OBJ '/home/zhang_muxin/data/shapenet_obj/03001627/10de9af4e91682851e5f7bff98fb8d02/models/model_normalized.obj'...
+Progress:   0.00%  (  0.0002 sec |   0.0001 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.0072 sec |   0.0070 sec) Done, loading materials and images...
+Progress:  33.33%	Material not found MTL: '/home/zhang_muxin/data/shapenet_obj/03001627/10de9af4e91682851e5f7bff98fb8d02/models/model_normalized.mtl'
+    (  0.0075 sec |   0.0072 sec) Done, building geometries (verts:96 faces:408 materials: 4 smoothgroups:0) ...
+Progress:  66.67%    (  0.0126 sec |   0.0124 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.0127 sec |   0.0126 sec) Finished importing: '/home/zhang_muxin/data/shapenet_obj/03001627/10de9af4e91682851e5f7bff98fb8d02/models/model_normalized.obj'
+Progress: 100.00%Progress: 100.00%
+
+[5.1887289722204652e-08, -4.439195725252101e-08, -0.65805854754672166, -0.75296676420722208]
+Fra:1 Mem:7.32M (0.00M, Peak 7.33M) | Time:00:00.00 | Preparing Scene data
+Fra:1 Mem:7.32M (0.00M, Peak 7.33M) | Time:00:00.00 | Creating Shadowbuffers
+Fra:1 Mem:7.32M (0.00M, Peak 7.33M) | Time:00:00.00 | Raytree.. preparing
+Fra:1 Mem:7.35M (0.00M, Peak 7.35M) | Time:00:00.00 | Raytree.. building
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Raytree finished
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Creating Environment maps
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Caching Point Densities
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Loading voxel datasets
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Volume preprocessing
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.68M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 1-4
+Fra:1 Mem:7.60M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 2-4
+Fra:1 Mem:7.52M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 3-4
+Fra:1 Mem:7.44M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 4-4
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing | Determining resolution
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing | Initializing execution
+Fra:1 Mem:6.91M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing | Tile 1-1
+Fra:1 Mem:6.91M (0.00M, Peak 7.87M) | Time:00:00.01 | Compositing | De-initializing execution
+Saved: buffer_fixed/Z0001.exr
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.01 | Sce: Scene Ve:270 Fa:180 La:0
+[0.53242786900416061, -0.46531762994767467, -0.46531769282843943, -0.53242794095387724]
+Fra:1 Mem:7.32M (0.00M, Peak 7.33M) | Time:00:00.00 | Preparing Scene data
+Fra:1 Mem:7.32M (0.00M, Peak 7.33M) | Time:00:00.00 | Creating Shadowbuffers
+Fra:1 Mem:7.32M (0.00M, Peak 7.33M) | Time:00:00.00 | Raytree.. preparing
+Fra:1 Mem:7.35M (0.00M, Peak 7.35M) | Time:00:00.00 | Raytree.. building
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Raytree finished
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Creating Environment maps
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Caching Point Densities
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Loading voxel datasets
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Volume preprocessing
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.68M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 4-4
+Fra:1 Mem:7.60M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 2-4
+Fra:1 Mem:7.52M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 3-4
+Fra:1 Mem:7.44M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 1-4
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing | Determining resolution
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing | Initializing execution
+Fra:1 Mem:6.91M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing | Tile 1-1
+Fra:1 Mem:6.91M (0.00M, Peak 7.87M) | Time:00:00.01 | Compositing | De-initializing execution
+Saved: buffer_fixed/Z0001.exr
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.01 | Sce: Scene Ve:270 Fa:180 La:0
+[0.75296676420722208, -0.65805854754672166, -4.4703483581542969e-08, -5.1078607144959598e-08]
+Fra:1 Mem:7.32M (0.00M, Peak 7.33M) | Time:00:00.00 | Preparing Scene data
+Fra:1 Mem:7.32M (0.00M, Peak 7.33M) | Time:00:00.00 | Creating Shadowbuffers
+Fra:1 Mem:7.32M (0.00M, Peak 7.33M) | Time:00:00.00 | Raytree.. preparing
+Fra:1 Mem:7.35M (0.00M, Peak 7.35M) | Time:00:00.00 | Raytree.. building
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Raytree finished
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Creating Environment maps
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Caching Point Densities
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Loading voxel datasets
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Volume preprocessing
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.68M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 1-4
+Fra:1 Mem:7.60M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 2-4
+Fra:1 Mem:7.52M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 4-4
+Fra:1 Mem:7.44M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 3-4
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing | Determining resolution
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing | Initializing execution
+Fra:1 Mem:6.91M (0.00M, Peak 7.87M) | Time:00:00.01 | Compositing | Tile 1-1
+Fra:1 Mem:6.91M (0.00M, Peak 7.87M) | Time:00:00.01 | Compositing | De-initializing execution
+Saved: buffer_fixed/Z0001.exr
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.01 | Sce: Scene Ve:270 Fa:180 La:0
+[0.53242786900416039, -0.46531762994767462, 0.4653176928284396, 0.53242794095387735]
+Fra:1 Mem:7.32M (0.00M, Peak 7.33M) | Time:00:00.00 | Preparing Scene data
+Fra:1 Mem:7.32M (0.00M, Peak 7.33M) | Time:00:00.00 | Creating Shadowbuffers
+Fra:1 Mem:7.32M (0.00M, Peak 7.33M) | Time:00:00.00 | Raytree.. preparing
+Fra:1 Mem:7.35M (0.00M, Peak 7.35M) | Time:00:00.00 | Raytree.. building
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Raytree finished
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Creating Environment maps
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Caching Point Densities
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Loading voxel datasets
+Fra:1 Mem:7.35M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Volume preprocessing
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.36M (0.00M, Peak 7.40M) | Time:00:00.00 | Sce: Scene Ve:270 Fa:180 La:0
+Fra:1 Mem:7.68M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 3-4
+Fra:1 Mem:7.60M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 2-4
+Fra:1 Mem:7.52M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 4-4
+Fra:1 Mem:7.44M (0.00M, Peak 7.87M) | Time:00:00.00 | Scene, Part 1-4
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing | Determining resolution
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing | Initializing execution
+Fra:1 Mem:6.91M (0.00M, Peak 7.87M) | Time:00:00.00 | Compositing | Tile 1-1
+Fra:1 Mem:6.91M (0.00M, Peak 7.87M) | Time:00:00.01 | Compositing | De-initializing execution
+Saved: buffer_fixed/Z0001.exr
+Fra:1 Mem:6.85M (0.00M, Peak 7.87M) | Time:00:00.01 | Sce: Scene Ve:270 Fa:180 La:0
+itializing execution
+Saved: buffer_fixed/Z0001.exr
+Fra:1 Mem:7.43M (0.00M, Peak 10.34M) | Time:00:00.02 | Sce: Scene Ve:3452 Fa:1648 La:0
+:7.82M (0.00M, Peak 18.09M) | Time:00:00.03 | Sce: Scene Ve:3194 Fa:2104 La:0
+:7.96M (0.00M, Peak 12.96M) | Time:00:00.03 | Sce: Scene Ve:3308 Fa:4596 La:0
+
+
+
+ene Ve:5978 Fa:4509 La:0
+e Ve:10704 Fa:5255 La:0
